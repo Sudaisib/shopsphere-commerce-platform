@@ -1,0 +1,17 @@
+api:
+  name: ShopSphere API
+  version: v1
+
+routes:
+  products:
+    path: /products
+    method: GET
+
+  orders:
+    path: /orders
+    method: GET
+
+  users:
+    path: /users
+    method: GET
+    

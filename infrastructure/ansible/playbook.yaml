@@ -1,0 +1,9 @@
+---
+- name: Configure ShopSphere Application
+  hosts: application
+
+  tasks:
+    - name: Display application message
+      debug:
+        msg: "ShopSphere application configuration"
+        

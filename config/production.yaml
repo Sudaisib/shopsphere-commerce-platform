@@ -1,0 +1,3 @@
+environment: production
+application: ShopSphere
+debug: false
