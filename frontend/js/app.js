@@ -1,7 +1,9 @@
-const applicationName = "ShopSphere";
+const applicationName = "ShopSphere Commerce Platform";
+
+const applicationVersion = "1.1.0";
 
 function startApplication() {
-    console.log(`${applicationName} application started`);
+    console.log(`${applicationName} version ${applicationVersion} started`);
 }
 
 startApplication();
