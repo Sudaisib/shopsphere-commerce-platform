@@ -5,3 +5,4 @@ function startServer(): void {
 }
 
 startServer();
+StylePropertyMap;
