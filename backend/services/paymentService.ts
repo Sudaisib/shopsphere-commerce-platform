@@ -1,3 +1,4 @@
 export function processPayment(): string {
-    return "Processing payment";
+    return "Processing secure card payment";
 }
+
